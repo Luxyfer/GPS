@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#d2d2d2d2"
+    android:touchscreenBlocksFocus="false"
+    android:layout_margin="25dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/popup_window1_title"
+        android:id="@+id/textView7"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:textAlignment="center"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:id="@+id/imagem_de_serie_pp"
+        android:layout_below="@+id/textView7"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/android_2"
+        android:contentDescription="Avatar de serie" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/desc_de_serie"
+        android:textSize="20sp"
+        android:textIsSelectable="true"
+        android:text="Stuff"
+        android:layout_below="@+id/imagem_de_serie_pp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:textAlignment="center"
+        android:singleLine="false"
+        android:longClickable="false"
+        android:maxLines="24"
+        android:layout_alignParentEnd="false"
+        android:layout_alignParentBottom="false"
+        android:autoLink="web" />
+</RelativeLayout>

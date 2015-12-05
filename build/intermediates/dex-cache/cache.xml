@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Luis\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Luis\Documents\GitHub\TV-Shows-Calendar\build\intermediates\pre-dexed\debug\okio-1.6.0_9d9e87fc72b187c391fdd57c5eb1202d33f289c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luis\Documents\GitHub\TV-Shows-Calendar\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="C:\Users\Luis\Documents\GitHub\TV-Shows-Calendar\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.0_a5addf046fc54767dff6dc5c9a55b0772e5f7243.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luis\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\Luis\Documents\GitHub\TV-Shows-Calendar\build\intermediates\pre-dexed\debug\support-annotations-23.1.0_18c9e39b440d0b68ae2f6a85ec95de28da35e146.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luis\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\Users\Luis\Documents\GitHub\TV-Shows-Calendar\build\intermediates\pre-dexed\debug\junit-4.12_8dce51f8ab508a069d12e017c4d30f3fae559fb4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luis\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.6.0\212387a39088ecd3daff8e3bfc3bdc4123e33c67\okhttp-2.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="212387a39088ecd3daff8e3bfc3bdc4123e33c67">
+        <dex dex="C:\Users\Luis\Documents\GitHub\TV-Shows-Calendar\build\intermediates\pre-dexed\debug\okhttp-2.6.0_3246c0c21ea3a25d41aa5fdab3d08f6401615c71.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luis\Documents\GitHub\TV-Shows-Calendar\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\Luis\Documents\GitHub\TV-Shows-Calendar\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.0_2f8df132d80066187eee27b364597e515719e785.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luis\.gradle\caches\modules-2\files-2.1\com.koushikdutta.urlimageviewhelper\urlimageviewhelper\1.0.4\67125d743e0035a1b157ba8210c2abf1ff374e10\urlimageviewhelper-1.0.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67125d743e0035a1b157ba8210c2abf1ff374e10">
+        <dex dex="C:\Users\Luis\Documents\GitHub\TV-Shows-Calendar\build\intermediates\pre-dexed\debug\urlimageviewhelper-1.0.4_c02ae537a43b1d56f8bc023bc7155f5fce952612.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luis\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\Users\Luis\Documents\GitHub\TV-Shows-Calendar\build\intermediates\pre-dexed\debug\hamcrest-core-1.3_59f53f77c61e0d87c142c6aa45a0f134a9a8f619.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luis\Documents\GitHub\TV-Shows-Calendar\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\Luis\Documents\GitHub\TV-Shows-Calendar\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.0_6a58134757a901537050ad1078007ef44d9c97ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luis\Documents\GitHub\TV-Shows-Calendar\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="C:\Users\Luis\Documents\GitHub\TV-Shows-Calendar\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.0_e5fbf5369ed8fb9de8436b5f218d60443c30e748.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luis\Documents\GitHub\TV-Shows-Calendar\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\Luis\Documents\GitHub\TV-Shows-Calendar\build\intermediates\pre-dexed\debug\internal_impl-23.1.0_102a3c2c6f18d1af4a4e7ad5c2e78b38015859a5.jar" />
+    </item>
+
+</items>
